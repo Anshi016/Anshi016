@@ -2,7 +2,7 @@
 
 ## 💫 About me
 
-- 🚀 Currently building **SafeRoute AI** – a smart school bus safety system</br?
+- 🚀 Currently building **SafeRoute AI** – a smart school bus safety system</br>
 - 🤝 Looking to collaborate on innovative projects focusing on API and Backend</br>
 - 💻 Passionate about AI, Machine Learning, Web Development, and Data Science</br>
 - 🌱 Currently exploring: Deep Learning, Generative Adversarial Networks, and Cybersecurity</br>
