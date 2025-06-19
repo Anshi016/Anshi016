@@ -1,4 +1,7 @@
-## Hi there 👋 I'm Anshi Prajapati!
+
+
+
+## Hi Anshi here!
 
 - 🚀 Currently building **SafeRoute AI** – a smart school bus safety system</br?
 - 🤝 Looking to collaborate on innovative projects focusing on API and Backend</br>
@@ -14,6 +17,9 @@
 
 
 ## 💻 Tech Stack
+
+![Tech Stack Banner](https://advesa.com/wp-content/uploads/2022/08/tech-stack.webp)
+
 
 ### 🖥️ Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -54,7 +60,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anshi016&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anshi016&theme=merko&hide_border=false)<br/>
@@ -62,4 +67,16 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anshi016&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **B.Tech** in Computer Science and Engineering (AI & ML)  
+📍 *University of Engineering and Management, Kolkata*  
+📅 Expected Graduation: **2026**
+
+
+
 
