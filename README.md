@@ -6,7 +6,7 @@
 - 🤝 Looking to collaborate on innovative projects focusing on API and Backend</br>
 - 💻 Passionate about AI, Machine Learning, Web Development, and Data Science</br>
 - 🌱 Currently exploring: Deep Learning, Generative Adversarial Networks, and Cybersecurity</br>
-- 🛠️ Tools & Tech I use: Python, TensorFlow, OpenCV, Flask, MongoDB, HTML/CSS, JavaScript, Git</br?
+- 🛠️ Tools & Tech I use: Python, TensorFlow, OpenCV, Flask, MongoDB, HTML/CSS, JavaScript, Git</br>
 - ⚡Fun fact: Beyond coding, I find joy in the strategy of chess, the excitement of cricket, the calm of plant care, and the legacy of the Olympic Games!<br/>
 
 ## 🌐 Connect With Me
