@@ -1,7 +1,6 @@
-
-
-
 ## Hi Anshi here!
+
+## 💫 About me
 
 - 🚀 Currently building **SafeRoute AI** – a smart school bus safety system</br?
 - 🤝 Looking to collaborate on innovative projects focusing on API and Backend</br>
@@ -18,7 +17,7 @@
 
 ## 💻 Tech Stack
 
-![Tech Stack Banner](https://advesa.com/wp-content/uploads/2022/08/tech-stack.webp)
+![Tech Stack Banner](https://github.com/Anshi016/Anshi016/blob/776aec0b23c7d76cc3e1464451e741f4f0352d5b/static/tech-stack-banner.png)
 
 
 ### 🖥️ Languages
@@ -68,14 +67,20 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Anshi016&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
----
-
 ## 🎓 Education & Certifications
 
 🎓 **B.Tech** in Computer Science and Engineering (AI & ML)  
 📍 *University of Engineering and Management, Kolkata*  
 📅 Expected Graduation: **2026**
+
+
+![Tech Stack Banner](https://github.com/Anshi016/Anshi016/blob/3725f40ab94c5e3105f3b165f542d2fc0cd514f9/static/gif_1.gif)
+
+
+
+## 💼 Want to hire me? Here's my resume!
+- [📄 My Resume](https://github.com/Anshi016/Anshi016/raw/main/static/NEW_CV.pdf)
+- 📧 Reach me at: [anship308@gmail.com](mailto:anship308@gmail.com)
 
 
 
